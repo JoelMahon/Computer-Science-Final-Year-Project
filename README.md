@@ -1,5 +1,5 @@
 # Computer-Science-Final-Year-Project
-The release, installer, and disseration of my final year project for me Computer Science degree.
+The release, installer, and dissertation of my final year project for me Computer Science degree.
 
 Your system should be 64-bit Windows 10 with OpenGL 3.3 compatible drivers installed,
 otherwise your program may not run correctly.
